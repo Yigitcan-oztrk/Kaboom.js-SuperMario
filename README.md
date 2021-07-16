@@ -1,2 +1,2 @@
-# kaboom.js-Mario
- SuperMario
+# Javascript-Doodle
+ Bunny Doodle
